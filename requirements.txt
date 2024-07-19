@@ -1,0 +1,10 @@
+cv2 (opencv-python)
+keras
+matplotlib
+numpy
+pandas
+PIL (Python Imaging Library)
+scikit-learn (sklearn)
+scikit-image (skimage)
+tensorflow
+tqdm
